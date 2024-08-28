@@ -1,4 +1,4 @@
 # Ollarizer
 Vocal harmonizer for advanced and beginners.
 
-See documentation.
+For the documentation see "Ollarizer.pdf".
